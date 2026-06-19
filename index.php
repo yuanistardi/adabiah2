@@ -1,3 +1,9 @@
+<?php
+
+include 'config/koneksi.php';
+include 'includes/header.php';
+
+?>
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -161,3 +167,8 @@ Kota Padang
 
 </body>
 </html>
+<?php
+
+include 'includes/footer.php';
+
+?>
